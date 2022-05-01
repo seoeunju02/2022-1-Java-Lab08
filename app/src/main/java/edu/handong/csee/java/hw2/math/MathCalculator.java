@@ -12,7 +12,7 @@ public class MathCalculator {
     public String getName() {
         return name;
     }
-/**   
+/**     
  * this is setName method
  * @param arg this is string type of paramaters
  */
